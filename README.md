@@ -41,12 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Aamish's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aamish-Ejaz&show_icons=true&theme=radical)
-
----
-
 ## 📫 Contact / Hire Me
 
 - **Email:** aamish.ejaz.sh@gmail.com  
