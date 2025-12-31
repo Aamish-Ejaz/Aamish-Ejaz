@@ -1,6 +1,6 @@
 # Hi, I'm Aamish Ejaz 👋
 
-**Android & Flutter Developer** | **Full-stack Mobile App Developer** | **Freelancer** | Over 100+ Mobile Apps Developed
+**Android & Flutter Developer** | **Full-stack Mobile App Developer** | **Freelancer** | Over 110+ Mobile Apps Developed
 
 ---
 
