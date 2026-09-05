@@ -42,8 +42,8 @@
 ---
 
 ## 📫 Contact / Hire Me
-
-- **Email:** aamish.ejaz.sh@gmail.com  
+- **Website:** https://aamishejaz.pages.dev/
+- **Email:** aamishdeveloper786@gmail.com  
 - **Fiverr:** [https://www.fiverr.com/ejazhussainshah/](https://www.fiverr.com/ejazhussainshah/)  
 - **LinkedIn:** [https://www.linkedin.com/in/aamish-ejaz/](https://www.linkedin.com/in/aamish-ejaz/)
 
